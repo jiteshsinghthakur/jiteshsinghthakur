@@ -1,20 +1,17 @@
-Hi 👋 My name is Jitesh Singh Thakur
-====================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jitesh Singh Thakur
+===========================================================================================================================================
 
 MERN Stack Engineer
 -------------------
 
-I, have been learnning coding from last 3 months and i am passionate to work on React.js. I am currently working with practise sets of building
-
-* 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [jts.thakur1997@gmail.com](mailto:jts.thakur1997@gmail.com)
-* 🤝  I'm open to collaborating on SaaS Products.
+* 🌍  I'm based in Indore, India
+* ✉️  You can contact me at [jts.thakur1997@gmail.com](mailto:jts.thakur1997@gmail.com)
+* 🤝  I'm open to collaborating on SaaS Products.
 
 <a href="https://www.twitter.com/JiteshSinghTha3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JiteshSinghTha3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/jiteshsinghthakur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jiteshsinghthakur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -40,11 +37,9 @@ src="https://img.shields.io/github/followers/jiteshsinghthakur?logo=github&style
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/986926859017125928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/jitesh.thakur.560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jiteshsinghthakur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jitesh_luv_u/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jitesh-thakur-2b5782131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JiteshSinghTha3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
